@@ -15,7 +15,7 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# flyabroad.io {#title}
+# flyabroad.me {#title}
 
 ## 飞出国移民，坚守理想的长期主义者！ {#subtitle}
 
